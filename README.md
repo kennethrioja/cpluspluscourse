@@ -127,3 +127,24 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+<!-- schema.org -->
+
+<!--
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "LearningResource",
+    "name": "C++ course",
+    "url": "https://github.com/kennethrioja/cpluspluscourse",
+    "description": "This repository contains all material for the C++ Course taught at CERN from Sebastien Ponce (LHCb).",
+    "learningResourceType": "github repository",
+    "keywords": "c++",
+    "license": "Apache-2.0",
+    "creativeWorkStatus": "Published",
+    "author": "Abhishek L, Attila Krasznahorkay, Bernhard Manfred Gruber, David Chamont, Enrico Guiraud, Graeme A Stewart, Kilian Lieret, Sebastien Ponce, Stefan Roiser, Stephan Hageboeck, bcouturi",
+    "contributor": "hageboeck, bernhardmgruber, chavid, sponce, eguiraud, klieret, amadio, pre-commit-ci[bot], roiser, theanalyst, graeme-a-stewart, krasznaa, bcouturi, dependabot[bot], Qubitol, pcanal",,     "audience": "research software engineers",
+    "dateCreated": "2021-03-25T14:38:38Z",
+  }
+</script>
+-->
