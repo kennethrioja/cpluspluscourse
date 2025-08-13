@@ -130,10 +130,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 <!-- schema.org -->
 
-<details>
-<summary>schema.org</summary>
-
-```
+<!--
 <script type="application/ld+json">
   {
     "@context": "http://schema.org",
@@ -150,6 +147,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
     "dateCreated": "2021-03-25T14:38:38Z",
   }
 </script>
-```
-
-</details>
+-->
