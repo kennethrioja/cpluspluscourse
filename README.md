@@ -132,6 +132,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 <details>
 <summary>schema.org</summary>
+
 ```html
 <script type="application/ld+json">
   {
@@ -150,4 +151,5 @@ This project follows the [all-contributors](https://github.com/all-contributors/
   }
 </script>
 ```
+
 </details>
