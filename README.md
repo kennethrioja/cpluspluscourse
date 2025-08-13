@@ -130,7 +130,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 <!-- schema.org -->
 
-<section id="hidden-content" style="display: none">
+<section id="hidden-content" style="display: none;">
   <script type="application/ld+json">
     {
       "@context": "http://schema.org",
