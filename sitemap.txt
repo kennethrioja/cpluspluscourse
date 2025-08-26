@@ -1,2 +1,4 @@
 https://carpentries-incubator.github.io/python-intermediate-development/
 https://github.com/hsf-training/analysis-essentials
+https://github.com/citation-file-format/ruby-cff/tree/main?tab=readme-ov-file
+https://github.com/kennethrioja/flask-restfulapi/tree/main
