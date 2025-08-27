@@ -1,2 +1,3 @@
 https://carpentries-incubator.github.io/python-intermediate-development/
 https://github.com/hsf-training/analysis-essentials
+https://api.github.com/repos/hsf-training/hsf-training-cpp-webpage
