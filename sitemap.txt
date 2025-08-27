@@ -1,8 +1,5 @@
-http://carpentries-incubator.github.io/python-testing/
-http://swcarpentry.github.io/python-novice-inflammation
-https://github.com/hsf-training/cpluspluscourse#-getting-the-latest-pdf
-https://github.com/root-project/student-course
-https://gitlab.com/stroche/particle-physics-methods
 https://henryiii.github.io/level-up-your-python/notebooks/0%20Intro.html
 https://henryiii.github.io/se-for-sci/
-https://hsf-training.github.io/analysis-essentials/
+https://hsf-training.github.io/analysis-essentials/ting-the-latest-pdf
+https://github.com/root-project/student-course
+https://gitlab.com/stroche/particle-physics-methods
