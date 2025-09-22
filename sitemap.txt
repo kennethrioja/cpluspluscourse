@@ -1,2 +1,5 @@
-https://henryiii.github.io/level-up-your-python/notebooks/0%20Intro.html
-https://henryiii.github.io/se-for-sci/
+https://github.com/hsf-training/cpluspluscourse
+https://hsf-training.github.io/hsf-training-scikit-hep-webpage/
+https://pyhf.github.io/pyhf-tutorial/introduction.html
+http://swcarpentry.github.io/python-novice-inflammation
+https://google.com
