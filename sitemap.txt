@@ -1,5 +1,4 @@
 https://github.com/hsf-training/cpluspluscourse
-https://hsf-training.github.io/hsf-training-scikit-hep-webpage/
-https://pyhf.github.io/pyhf-tutorial/introduction.html
 http://swcarpentry.github.io/python-novice-inflammation
-https://google.com
+https://hsf-training.github.io/hsf-training-scikit-hep-webpage/
+https://testwebsite.com
